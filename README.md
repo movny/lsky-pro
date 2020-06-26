@@ -14,7 +14,7 @@
 [![License](https://img.shields.io/badge/license-GPL_V3.0-yellowgreen.svg)](https://github.com/wisp-x/lsky-pro/blob/master/LICENSE)
 
 [文档](https://www.kancloud.cn/wispx/lsky-pro) &nbsp;
-[演示](https://pic.iqy.ink) &nbsp;
+[部署](https://heroku.com/deploy) &nbsp;
 [Chrome 拓展](https://github.com/wisp-x/lsky-pro-chrome-extension) &nbsp;
 [Telegram 群组](https://t.me/lsky_pro)
 
